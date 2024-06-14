@@ -1,0 +1,1 @@
+Learning how to get comfortable with Git, Terminal, VSC
